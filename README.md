@@ -12,3 +12,5 @@ Mobile app that will have all of the following capabilities. I'd prefer to do th
 * [ ] Single Sign On to Oauth provider (github and google for now)
 * [ ] FaceId
 * [ ] Local push notifications
+* [ ] Data synchronized between iOS and supabase DB
+* [ ] offline support that synchronizes once online
